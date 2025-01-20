@@ -1,3 +1,6 @@
+# folders
+.ipynb_checkpoints
+
 # environments
 .env
 .venv
