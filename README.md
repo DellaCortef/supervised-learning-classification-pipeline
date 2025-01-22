@@ -29,6 +29,7 @@ Here’s what you’ll find in this project:
 ## How to Get Started 🛠️
 
 ### Clone the Repo:
+
 '''bash
 git clone https://github.com/DellaCortef/supervised-learning-classification-reference.git
 cd supervised-learning-classification-reference
@@ -36,18 +37,21 @@ cd supervised-learning-classification-reference
 
 ### Install the Requirements:
 - Create a virtual environment:
+
 '''bash
 python3 -m venv venv
 source venv/bin/activate  # On Windows: .\\venv\\Scripts\\activate
 '''
 
 - Install the dependencies:
+
 '''bash
 pip install -r requirements.txt
 '''
 
 - Run the Notebooks:
     - Fire up Jupyter:
+    
 '''bash
 jupyter notebook
 '''
