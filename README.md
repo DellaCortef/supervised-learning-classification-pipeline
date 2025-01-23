@@ -6,7 +6,7 @@ Welcome to this repository! Here, you'll find everything you need to build super
 
 Here’s what you’ll find in this project:
 
-### 📂 Key Files:
+### Key Files:
 - Jupyter Notebooks:
     - machine-learning-classification-pipeline.ipynb: Step-by-step guide for building ML pipelines.
     - comparing-the-algorithms.ipynb: Pits different classifiers against each other. Who wins? Check it out!
