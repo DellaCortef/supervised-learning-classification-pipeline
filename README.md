@@ -1,8 +1,8 @@
-# Supervised Learning Classification Reference 🧠✨
+# Supervised Learning Classification Reference
 
 Welcome to this repository! Here, you'll find everything you need to build supervised learning classification pipelines like a pro. This project has all the fun stuff: data preprocessing, training, hyperparameter tuning, evaluating models, and even detecting data drift (yep, we’ve got you covered!).
 
-## What’s Inside? 🚀
+## What’s Inside?
 
 Here’s what you’ll find in this project:
 
@@ -12,7 +12,7 @@ Here’s what you’ll find in this project:
     - comparing-the-algorithms.ipynb: Pits different classifiers against each other. Who wins? Check it out!
     - feature-selection.ipynb: Learn how to pick the best features like a true data scientist.
     - Grid-Main-Hyperparameters-Classification.ipynb: Tune your model to perfection with grid search.
-    - hyperparameter-optimization.ipynb: Random search for when you’re feeling lucky 🍀.
+    - hyperparameter-optimization.ipynb: Random search for when you’re feeling lucky.
     - predicting-new-data.ipynb: Take your trained model for a spin and predict on fresh data.
 
 - Datasets:
@@ -26,7 +26,7 @@ Here’s what you’ll find in this project:
     - Keep an eye on your data with drift_report.html. Powered by Evidently.
 
 
-## How to Get Started 🛠️
+## How to Get Started
 
 ### Clone the Repo:
 ```bash
@@ -55,7 +55,7 @@ jupyter notebook
 ```
 
 
-## What Can You Do Here? 🔥
+## What Can You Do Here?
 
 1. Preprocess Data Like a Pro:
 - Fill in missing values, scale your features, encode categorical variables — all in one pipeline!
@@ -66,16 +66,3 @@ jupyter notebook
 - Use GridSearchCV or RandomizedSearchCV to squeeze the most out of your models.
 4. Detect Data Drift:
 - Keep your models honest by tracking changes in your data over time.
-
-
-## Contribute! 🤝
-
-Found something cool to add? Got an idea to make this better? Open an issue or submit a pull request. Let’s make this project awesome together!
-
-## License 📜
-
-This project is under the MIT License, which means you can do almost anything with it as long as you give credit. Enjoy and share the knowledge! 🎉
-
-## Questions? 🧐
-
-Feel free to reach out or open an issue. Let’s learn and build together!
